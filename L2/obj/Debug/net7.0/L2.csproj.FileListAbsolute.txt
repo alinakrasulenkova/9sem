@@ -1,0 +1,15 @@
+C:\Users\Георгий\Desktop\Учеба айти\9sem\L2\bin\Debug\net7.0\L2.exe
+C:\Users\Георгий\Desktop\Учеба айти\9sem\L2\bin\Debug\net7.0\L2.deps.json
+C:\Users\Георгий\Desktop\Учеба айти\9sem\L2\bin\Debug\net7.0\L2.runtimeconfig.json
+C:\Users\Георгий\Desktop\Учеба айти\9sem\L2\bin\Debug\net7.0\L2.dll
+C:\Users\Георгий\Desktop\Учеба айти\9sem\L2\bin\Debug\net7.0\L2.pdb
+C:\Users\Георгий\Desktop\Учеба айти\9sem\L2\obj\Debug\net7.0\L2.csproj.AssemblyReference.cache
+C:\Users\Георгий\Desktop\Учеба айти\9sem\L2\obj\Debug\net7.0\L2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Георгий\Desktop\Учеба айти\9sem\L2\obj\Debug\net7.0\L2.AssemblyInfoInputs.cache
+C:\Users\Георгий\Desktop\Учеба айти\9sem\L2\obj\Debug\net7.0\L2.AssemblyInfo.cs
+C:\Users\Георгий\Desktop\Учеба айти\9sem\L2\obj\Debug\net7.0\L2.csproj.CoreCompileInputs.cache
+C:\Users\Георгий\Desktop\Учеба айти\9sem\L2\obj\Debug\net7.0\L2.dll
+C:\Users\Георгий\Desktop\Учеба айти\9sem\L2\obj\Debug\net7.0\refint\L2.dll
+C:\Users\Георгий\Desktop\Учеба айти\9sem\L2\obj\Debug\net7.0\L2.pdb
+C:\Users\Георгий\Desktop\Учеба айти\9sem\L2\obj\Debug\net7.0\L2.genruntimeconfig.cache
+C:\Users\Георгий\Desktop\Учеба айти\9sem\L2\obj\Debug\net7.0\ref\L2.dll
